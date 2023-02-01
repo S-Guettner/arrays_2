@@ -12,5 +12,11 @@ let languages = [
     "TypeScript",
     "Swift"
 ];
+console.log(languages)
 
 console.log(languages.sort())
+
+let sortedArray = languages.sort()
+
+console.log(sortedArray)
+
